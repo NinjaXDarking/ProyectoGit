@@ -9,5 +9,8 @@ package proyectogit;
  * @author Student
  */
 public class Persona {
+    private int codigo;
+    private String nombre;
+    private String direccion;
     
 }
